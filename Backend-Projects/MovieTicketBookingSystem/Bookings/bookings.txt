@@ -1,0 +1,27 @@
+Customer : Neelapu
+Movie : Salaar
+Theater : PVR
+Show : 6:00 PM
+Tickets : 4
+Amount : 880
+Remaining Balance : 4120
+Date : 2026-06-10
+--------------------------------
+Customer : Ravi
+Movie : Salaar
+Theater : PVR
+Show : 6:00 PM
+Tickets : 3
+Amount : 660
+Remaining Balance : 2340
+Date : 2026-06-10
+--------------------------------
+Customer : Neelapu
+Movie : Salaar
+Theater : PVR
+Show : 6:00 PM
+Tickets : 4
+Amount : 880
+Remaining Balance : 4120
+Date : 2026-06-10
+--------------------------------
